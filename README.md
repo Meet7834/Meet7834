@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Meet Chaudhary
-- I am student at Chitkara University. I am in Studying BE CSE. Currently I am 2nd year student.
+- I am student at Chitkara University. I am in Studying BE CSE. Currently I am 1st year student.
 - 🌱 I’m currently learning ... C++ and Web Development.
 - 📫 How to reach me ... Instagram: https://www.instagram.com/meet7834/
 
