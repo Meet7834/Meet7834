@@ -2,7 +2,7 @@
 
 Well, well, well, look who's stumbled onto my little corner of GitHub. 🕵️‍♂️ Prepare to be... mildly interested as I introduce myself:
 
-👨‍💻 **Name**: Meet Chaudhary, the third-year coding prodigy currently masquerading as a Computer Science and Engineering student at Chitkara University.
+👨‍💻 **Name**: Meet Chaudhary, a third-year BE CSE student studying at Chitkara University.
 
 🧠 **Programming Skills**: C++, C, Java, JavaScript, MERN and little bit of Python. 
 
