@@ -20,6 +20,8 @@ Heyyy, Welcome to my github profile, I hope you find something interesting here�
 
 3. [YelpCamp](https://github.com/Meet7834/YelpCamp): It's a fullstack website, made using ejs and mongoose,node, express.
 
+4. [Threads Clone](https://github.com/Meet7834/Threads-Clone): It's a Clone of Instagram threads with Real-Time Chat functionality using MERN stack and Socket.Io. 
+
 Feel free to explore other projects and maybe fork or star them ☺️.
 
 ## Reach Out... or Not!
@@ -27,7 +29,7 @@ Feel free to explore other projects and maybe fork or star them ☺️.
 📣 If you want to contact me, here are your options:
 
 - [LinkedIn](https://www.linkedin.com/in/meet-chaudhary-4b6549231/): Connect with me professionally.
-- [Instagram](https://www.instagram.com/its_meet_chaudhary/): I rarely post anything but you are welcome to dm me.
+- [Instagram](https://www.instagram.com/its__me.t/): I rarely post anything but you are welcome to dm me.
 - Email: Contact me at chaudharymeet7834@gmail.com.
 
 
