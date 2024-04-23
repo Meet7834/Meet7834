@@ -18,9 +18,9 @@ Heyyy, Welcome to my github profile, I hope you find something interesting here�
 
 2. [Matter Madness](https://github.com/Meet7834/Matter-Madness): A pretty cool website I made by using pure html, css and js.
 
-3. [GroundScout](https://github.com/Meet7834/GroundScout): It's a fullstack website, made using ejs and mongoose,node, express.
+3. [Threads Clone](https://github.com/Meet7834/Threads-Clone): It's a Clone of Instagram threads with Real-Time Chat functionality using MERN stack and Socket.Io.
 
-4. [Threads Clone](https://github.com/Meet7834/Threads-Clone): It's a Clone of Instagram threads with Real-Time Chat functionality using MERN stack and Socket.Io. 
+4. [Flit](https://github.com/Meet7834/Flit): It's a simple compiler I am currently working on. It's a learning project for me.
 
 Feel free to explore other projects and maybe fork or star them ☺️.
 
