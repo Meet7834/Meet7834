@@ -2,7 +2,7 @@
 
 Heyyy, Welcome to my github profile, I hope you find something interesting here🤞🤞🤞!
 
-👨‍💻 **Name**: Meet Chaudhary, a third-year BE CSE student studying at Chitkara University.
+👨‍💻 **Name**: Meet Chaudhary, final year BE CSE student studying at Chitkara University.
 
 🧠 **Programming Skills**: C++, C, Java, JavaScript, MERN. 
 
